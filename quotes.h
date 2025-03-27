@@ -10,5 +10,4 @@
 
 void print_quote(char ** quotes, int index);
 void print_random_quote(char ** quotes);
-
 #endif
